@@ -22,7 +22,7 @@
 import java.util.Arrays;
  
 
-public class Reto3 {
+public class Reto2{
 
     public static int puntosj1 = 0;
     public static int puntosj2 = 0;
